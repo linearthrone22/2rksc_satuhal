@@ -10,9 +10,13 @@ Aplikasi quote generator Indonesia yang simpel dan lucu, dibuat dengan Jetpack C
 
 ## 🚀 Cara Install
 
+Install langsung disini (https://github.com/linearthrone22/2rksc_satuhal/blob/main/app/release/app-release.apk)
+
+Atau
+
 1. Clone repo ini
 ```bash
-git clone https://github.com/yourusername/SatuHalSelesai.git
+git clone https://github.com/linearthrone22/2rksc_satuhal
 ```
 
 2. Buka di Android Studio
@@ -52,7 +56,7 @@ Mau nambahin quote? Silakan!
 
 <div align="center">
 
-**Dibuat dengan ❤️ untuk tugas 2 rekayasa keamanan siber c**
+**Dibuat dengan ❤️ untuk tugas Keamanan Perangkat Lunak 2 Rekayasa Keamanan Siber C**
 
 ⭐ Kasih star dong kalau suka!
 
